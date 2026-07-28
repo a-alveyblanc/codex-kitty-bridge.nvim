@@ -8,6 +8,8 @@ It is intended for the Codex TUI math renderer, but the bridge is protocol
 based: any embedded application using direct PNG (`f=100`, `t=d`) virtual
 placements can use it.
 
+[Relevant Codex fork and branch here](https://github.com/a-alveyblanc/codex/tree/20cbb5106b45952735863b4c22c5785967509f84)
+
 ## Requirements
 
 - Neovim 0.11+
